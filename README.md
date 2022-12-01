@@ -4,7 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaell_kelson/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaellkelson@gmail.com)
 
-![Isaell GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaell-Kelson&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaell-Kelson&layout=compact&theme=dracula)](https://github.com/Isaell-Kelson/github-readme-stats)
+![Isaell GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaell-Kelson&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaell-Kelson&layout=compact&theme=dracula)](https://github.com/Isaell-Kelson/github-readme-stats)
 
 ## | Linguagens e Tecnologias que utilizo 
 
